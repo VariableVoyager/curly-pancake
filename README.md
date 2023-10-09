@@ -1,2 +1,3 @@
 # curly-pancake
-All codes are written into vscode
+C programming
+All coder are written in vscode
